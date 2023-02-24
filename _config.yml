@@ -13,15 +13,13 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: MM
+title: cptcmdlet
 email:
 description: >- # this means to ignore newlines until "baseurl:"
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
+  cptcmdlet explores wrecklessly and aimlessly PowerShell for fun and profit. don't let the cpt fool you. i have zero authority.
 twitter_username: username
-github_username: username
-minimal_mistakes_skin: default
+github_username: cptcmdlet
+minimal_mistakes_skin: dark
 search: true
 
 # Build settings
@@ -58,12 +56,12 @@ plugins:
   - jekyll-include-cache
 
 author:
-  name   : "First Lastname"
+  name   : "cptcmdlet"
   avatar : "/assets/images/bio-photo.jpg"
-  bio    : "My awesome biography constrained to a sentence or two goes here."
+  bio    : "I work in windows/active directory administration. PowerShell is u"
   links:
-    - label: "Website"
-      icon: "fas fa-fw fa-link"
+    - label: "youtube"
+      icon: "fas fa-fw fa-youtube"
       url: "https://"
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
@@ -77,15 +75,15 @@ author:
 
 footer:
   links:
-    - label: "Twitter"
-      icon: "fab fa-fw fa-twitter-square"
-      url: "https://twitter.com/"
+    #- label: "Twitter"
+    #  icon: "fab fa-fw fa-twitter-square"
+    #  url: "https://twitter.com/"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      url: "https://github.com/"
-    - label: "Instagram"
-      icon: "fab fa-fw fa-instagram"
-      url: "https://instagram.com/"
+      url: "https://github.com/cptcmdlet"
+    #- label: "Instagram"
+    # icon: "fab fa-fw fa-instagram"
+    #  url: "https://instagram.com/"
 
 defaults:
   # _posts
