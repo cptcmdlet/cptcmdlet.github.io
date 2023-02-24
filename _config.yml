@@ -65,14 +65,14 @@ author:
       icon: "fas fa-fw fa-youtube"
       url: "https://youtube.com/cptcmdlet"
     - label: "GitHub"
-      icon: "fab fa-fw fa-github"
+      icon: "fab fa-fw fa-youtube-play"
       url: "https://github.com/cptcmdlet"
 
 footer:
   links:
-    #- label: "Twitter"
-    #  icon: "fab fa-fw fa-twitter-square"
-    #  url: "https://twitter.com/"
+    - label: "youtube"
+      icon: "fas fa-fw fa-youtube"
+      url: "https://youtube.com/cptcmdlet"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/cptcmdlet"
