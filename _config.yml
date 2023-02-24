@@ -58,7 +58,7 @@ plugins:
 
 author:
   name   : "cptcmdlet"
-  avatar : "/assets/images/cptmdlet-skull.png"
+  avatar : "/assets/images/cptcmdlet-skull.png"
   bio    : "don't let the cpt fool you. i have zero authority."
   links:
     - label: "youtube"
