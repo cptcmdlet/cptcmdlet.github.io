@@ -62,16 +62,16 @@ author:
   bio    : "don't let the cpt fool you. i have zero authority."
   links:
     - label: "youtube"
-      icon: "fa-brands fa-youtube"
+      icon: "fab fa-fw fa-youtube-play"
       url: "https://youtube.com/cptcmdlet"
     - label: "GitHub"
-      icon: "fab fa-fw fa-youtube-play"
+      icon: "fab fa-fw fa-github"
       url: "https://github.com/cptcmdlet"
 
 footer:
   links:
-    - label: "youtube"
-      icon: "fas fa-fw fa-youtube"
+  - label: "youtube"
+      icon: "fab fa-fw fa-youtube"
       url: "https://youtube.com/cptcmdlet"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
