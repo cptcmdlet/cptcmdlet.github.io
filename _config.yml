@@ -20,7 +20,7 @@ description: >- # this means to ignore newlines until "baseurl:"
   cptcmdlet explores wrecklessly and aimlessly PowerShell for fun and profit. don't let the cpt fool you. i have zero authority.
 twitter_username: username
 github_username: cptcmdlet
-minimal_mistakes_skin: neon
+minimal_mistakes_skin: sunrise
 search: true
 
 # Build settings
