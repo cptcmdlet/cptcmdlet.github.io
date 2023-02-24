@@ -58,20 +58,14 @@ plugins:
 author:
   name   : "cptcmdlet"
   avatar : "/assets/images/cptav01.png"
-  bio    : "I work in windows/active directory administration. PowerShell is u"
+  bio    : "don't let the cpt fool you. i have zero authority."
   links:
     - label: "youtube"
       icon: "fas fa-fw fa-youtube"
-      url: "https://"
-    - label: "Twitter"
-      icon: "fab fa-fw fa-twitter-square"
-      url: "https://twitter.com/"
+      url: "https://youtube.com/cptcmdlet"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      url: "https://github.com/"
-    - label: "Instagram"
-      icon: "fab fa-fw fa-instagram"
-      url: "https://instagram.com/"
+      url: "https://github.com/cptcmdlet"
 
 footer:
   links:
