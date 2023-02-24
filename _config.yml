@@ -14,13 +14,13 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 title: cptcmdlet
-logo: "/assets/images/cptcmdlet-skull.png"
+logo: "/assets/images/cptav01.png"
 email:
 description: >- # this means to ignore newlines until "baseurl:"
   cptcmdlet explores wrecklessly and aimlessly PowerShell for fun and profit. don't let the cpt fool you. i have zero authority.
 twitter_username: username
 github_username: cptcmdlet
-minimal_mistakes_skin: dark
+minimal_mistakes_skin: neon
 search: true
 
 # Build settings
@@ -58,7 +58,7 @@ plugins:
 
 author:
   name   : "cptcmdlet"
-  avatar : "/assets/images/cptav01.png"
+  avatar : "/assets/images/cptmdlet-skull.png"
   bio    : "don't let the cpt fool you. i have zero authority."
   links:
     - label: "youtube"
@@ -90,7 +90,7 @@ defaults:
       author_profile: true
       read_time: true
       comments: true
-      share: true
+      share: false
       related: true
   # _pages
   - scope:
