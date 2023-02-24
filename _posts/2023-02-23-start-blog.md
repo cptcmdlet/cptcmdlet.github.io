@@ -1,7 +1,6 @@
 ---
 title: "Start-Blog"
 date: 2023-02-23T17:34:30-04:00
-layout: post
 categories:
   - blog
 tags:
