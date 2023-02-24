@@ -14,6 +14,7 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 title: cptcmdlet
+logo: "/assets/images/cptcmdlet-skull.png"
 email:
 description: >- # this means to ignore newlines until "baseurl:"
   cptcmdlet explores wrecklessly and aimlessly PowerShell for fun and profit. don't let the cpt fool you. i have zero authority.
