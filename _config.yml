@@ -57,7 +57,7 @@ plugins:
 
 author:
   name   : "cptcmdlet"
-  avatar : "/assets/images/cptavatar.png"
+  avatar : "/assets/images/cptavatar01.png"
   bio    : "I work in windows/active directory administration. PowerShell is u"
   links:
     - label: "youtube"
