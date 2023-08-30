@@ -61,7 +61,7 @@ author:
   avatar : "/assets/images/cptcmdlet-skull.png"
   bio    : "don't let the cpt fool you. i have zero authority."
   links:
-    - label: "youtube"
+    - label: "YouTube"
       icon: "fab fa-fw fa-youtube"
       url: "https://youtube.com/cptcmdlet"
     - label: "GitHub"
