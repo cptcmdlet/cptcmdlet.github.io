@@ -29,7 +29,6 @@ Here's the function:
     param(
         [string] $text
     )
-    
     $characters = $text.ToCharArray()
     $charCount = $characters.count
     $charCount = $charCount-1
