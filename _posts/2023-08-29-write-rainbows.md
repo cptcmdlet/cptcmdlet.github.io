@@ -91,7 +91,7 @@ This is what we'll increment to keep track of where we are in the string.
 
 ### Define color choices
 
-Let's definite our color options in an array.
+Let's define our color options in an array.
 
 `$colors = "red","yellow","green","cyan","Magenta","Blue"`
 
