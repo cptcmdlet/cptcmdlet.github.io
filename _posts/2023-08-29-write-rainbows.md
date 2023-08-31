@@ -24,7 +24,7 @@ This is something I'm sure exists in a myriad of formats, but here's my take. Wr
 ## The Function 
 
 Here's the function:
-`
+```
 function Write-Rainbow {
     param(
         [string] $text
@@ -47,7 +47,7 @@ function Write-Rainbow {
     }
 }
 
-`
+```
 If you're savvy and just needed the code to figure that out, I guess you can go! 
 
 ## Bit by bit
