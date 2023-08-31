@@ -19,7 +19,7 @@ author: cptcmdlet
 
 This is something I'm sure exists in a myriad of formats, but here's my take. Write-Rainbows is a PowerShell function that does a write-host but outputs each letter of your string in a different color. Example:
 
-![write rainbows example](/_images/writerainbowexample.png)
+![write rainbows example](/images/writerainbowexample.png)
 
 ## The Function 
 
@@ -76,7 +76,7 @@ The .NET framework makes this nice and easy for us by including a .toCharArray()
 
 Let's see what happens if I look at the $characters array directly with our example:
 
-![toCharArray example](/_images/chararray.png)
+![toCharArray example](/images/chararray.png)
 
 `$charCount = $characters.count`
 
