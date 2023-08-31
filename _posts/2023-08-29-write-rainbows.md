@@ -118,14 +118,13 @@ Get-Random is a built in PowerShell command that gets a random value, the -Input
 
 Once we have a color, we can write-host the final character.
 
-`       Write-Host "$character" -ForegroundColor $color
-        }`
+`Write-Host "$character" -ForegroundColor $color`
 
 ### Else...
 
 If this isn't the final character of the string we are rainbow-ifying, we want to do something else, we want continue printing characters on the same line. 
 
-`        else{
+`else{
         $color = Get-Random -InputObject $colors
         Write-Host "$character" -NoNewline -ForegroundColor $color
         $index++
@@ -143,11 +142,19 @@ There you have it. All the pieces of the puzzle. Go forth and be colorful.
 Here's help articles for the concepts utilized in this script:
 
 [About Functions](https://learn.microsoft.com/en-us/powershell/scripting/learn/ps101/09-functions?view=powershell-7.3)
+
 [About Arrays](https://learn.microsoft.com/en-us/powershell/module/microsoft.powershell.core/about/about_arrays?view=powershell-7.3)
+
 [About String.toCharArray](https://learn.microsoft.com/en-us/dotnet/api/system.string.tochararray?view=net-7.0)
+
 [About Methods](https://learn.microsoft.com/en-us/dotnet/csharp/programming-guide/classes-and-structs/methods)
+
 [About Foreach Loops](https://learn.microsoft.com/en-us/powershell/module/microsoft.powershell.core/about/about_foreach?view=powershell-7.3)
+
 [About If, else](https://learn.microsoft.com/en-us/powershell/module/microsoft.powershell.core/about/about_if?view=powershell-7.3)
+
 [About Get-Random](https://learn.microsoft.com/en-us/powershell/module/microsoft.powershell.utility/get-random?view=powershell-7.3)
+
 [About Operators](https://learn.microsoft.com/en-us/powershell/module/microsoft.powershell.core/about/about_operators?view=powershell-7.3)
+
 
