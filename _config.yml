@@ -64,11 +64,11 @@ author:
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/cptcmdlet"
-    - label: "mastodon"
+    - label: "Mastodon"
       icon: "fab fa-fw fa-mastodon"
       url: "https://phx.pub/@jensen"
     - label: "Ko-Fi"
-      icon: "fab fa-fw fa-kofi"
+      icon: "fab fa-fw fa-ko-fi"
       url: "https://ko-fi.com/imjensen"
       
 
