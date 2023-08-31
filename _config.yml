@@ -67,8 +67,8 @@ author:
     - label: "Mastodon"
       icon: "fab fa-fw fa-mastodon"
       url: "https://phx.pub/@jensen"
-    - label: "Ko-Fi"
-      icon: "fab fa-fw fa-ko-fi"
+    - label: "Buy me a tea. Earl Grey. Hot."
+      icon: "fab fa-fw fa-coffee"
       url: "https://ko-fi.com/imjensen"
       
 
